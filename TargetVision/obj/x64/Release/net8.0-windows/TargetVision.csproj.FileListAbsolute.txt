@@ -1,0 +1,165 @@
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\TargetVision.exe
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\TargetVision.deps.json
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\TargetVision.runtimeconfig.json
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\TargetVision.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\TargetVision.pdb
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\DirectShowLib.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\Emgu.CV.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\NLog.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\System.Drawing.Common.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.csproj.AssemblyReference.cache
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.FormsController.resources
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.Properties.Resources.resources
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.csproj.GenerateResource.cache
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.AssemblyInfoInputs.cache
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.AssemblyInfo.cs
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.csproj.CoreCompileInputs.cache
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.sourcelink.json
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\obj\x64\Release\net8.0-windows\TargetVi.84BA3116.Up2Date
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\obj\x64\Release\net8.0-windows\refint\TargetVision.dll
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.pdb
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.genruntimeconfig.cache
+C:\Users\name\Desktop\ShootingGallery_v6\TargetVision\obj\x64\Release\net8.0-windows\ref\TargetVision.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\TargetVision.exe
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\TargetVision.deps.json
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\TargetVision.runtimeconfig.json
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\TargetVision.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\TargetVision.pdb
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\DirectShowLib.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\Emgu.CV.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\Emgu.CV.Bitmap.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\NLog.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\System.Drawing.Common.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.csproj.AssemblyReference.cache
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.FormsController.resources
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.Properties.Resources.resources
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.csproj.GenerateResource.cache
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.GeneratedMSBuildEditorConfig.editorconfig
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.AssemblyInfoInputs.cache
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.AssemblyInfo.cs
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.csproj.CoreCompileInputs.cache
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.sourcelink.json
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\obj\x64\Release\net8.0-windows\TargetVi.84BA3116.Up2Date
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\obj\x64\Release\net8.0-windows\refint\TargetVision.dll
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.pdb
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.genruntimeconfig.cache
+F:\ShootingGallery\18.02.25_ShootingGallery_v6 (actual)\TargetVision\obj\x64\Release\net8.0-windows\ref\TargetVision.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\TargetVision.exe
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\TargetVision.deps.json
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\TargetVision.runtimeconfig.json
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\TargetVision.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\TargetVision.pdb
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\DirectShowLib.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\Emgu.CV.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\Emgu.CV.Bitmap.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\NLog.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\System.Drawing.Common.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.csproj.AssemblyReference.cache
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.FormsController.resources
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.Properties.Resources.resources
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.csproj.GenerateResource.cache
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.GeneratedMSBuildEditorConfig.editorconfig
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.AssemblyInfoInputs.cache
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.AssemblyInfo.cs
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.csproj.CoreCompileInputs.cache
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.sourcelink.json
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\obj\x64\Release\net8.0-windows\TargetVi.84BA3116.Up2Date
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\obj\x64\Release\net8.0-windows\refint\TargetVision.dll
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.pdb
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\obj\x64\Release\net8.0-windows\TargetVision.genruntimeconfig.cache
+F:\ShootingGallery\ShootingGalleryMovie\TargetVision\obj\x64\Release\net8.0-windows\ref\TargetVision.dll
